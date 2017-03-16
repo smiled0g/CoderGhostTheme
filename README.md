@@ -1,21 +1,14 @@
-# Coder Ghost Theme for Showcasing Projects
-Open sourcing the Coder Ghost theme. The coder ghost theme was built to show case my open source projects. The theme is packed with the following features :  
-
-- mobile friendly
-- beautiful syntax highlighting
-- elusive icon set
-- stunning typography
-- thumbnail per post
-- seo optimized titles
-
+# Ghost Theme for Thai Coders
+A [Ghost](https://ghost.org/) theme shamelessly forked from [Coder Ghost Theme for Showcasing Projects](https://github.com/mbejda/CoderGhostTheme), which I took a liberty of modifying it to suite my like. 
 
 ## Installation 
-Goto the Github and [download](https://twitter.com/notmilobejda) the repository zip archive and extract its contents. Change the contact urls in the `partials/navbar.hbs` file to your own and archive the contents. Upload the archive to your Ghost CMS. 
+Download [the repository](https://github.com/smiled0g/THCoderGhostTheme) zip archive and extract its contents. In `partials/navbar.hbs`, change contact to your own and archive the contents. Upload the archive to your Ghost CMS. 
 
+## LICENSE
+MIT license. 
 
-![](https://www.mbejda.com/content/images/2015/12/download--2-.png#400)
-<hr>
-If you need support send me a tweet at <br>
+## Acknowledgement
+Thank you @mbejda for the awesomeness in the origin [Coder Ghost Theme for Showcasing Projects](https://github.com/mbejda/CoderGhostTheme). 
 Twitter: [@notmilosbejda](https://twitter.com/notmilobejda)<br>
 Blog: [www.mbejda.com](https://github.com/mbejda/CoderGhostTheme)<br>
 Github: https://github.com/mbejda/CoderGhostTheme
